@@ -3,7 +3,10 @@ przetestować min max scaler
 rozważyć usuwanie wysokich korelacji 
 metryki
 modele
-PCA
+redukcja wymiarów:
+- t-sne
+- u-map
+- PCA
 
 wybór najlepszego 
 pipeliny 
