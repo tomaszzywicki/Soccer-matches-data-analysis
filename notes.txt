@@ -1,0 +1,11 @@
+przekształcenia na ziennych - log
+przetestować min max scaler
+rozważyć usuwanie wysokich korelacji 
+metryki
+modele
+PCA
+
+wybór najlepszego 
+pipeliny 
+
+koniec
