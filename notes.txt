@@ -12,3 +12,10 @@ wybór najlepszego
 pipeliny 
 
 koniec
+
+
+
+Modele:
+1. KMeans
+2. Kilka hierarchicznych
+3.
